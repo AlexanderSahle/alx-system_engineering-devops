@@ -1,0 +1,2 @@
+0x00_shell_basics
+0x01_shell_permiion
