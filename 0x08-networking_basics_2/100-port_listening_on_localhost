@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# A program is actively waiting for incoming connections on port 98 
+# 	- specifically for the local machine
+
+nc -l localhost 98
